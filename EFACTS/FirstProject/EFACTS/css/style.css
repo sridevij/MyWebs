@@ -1,0 +1,17 @@
+.caption
+{
+	padding-left: 5%;
+	font-weight: bold;
+}
+ul
+{
+    
+	padding-left: 0px; 
+	
+}
+#reSize
+{
+	position : relative;
+	height :200px;
+	width:300px;
+}
